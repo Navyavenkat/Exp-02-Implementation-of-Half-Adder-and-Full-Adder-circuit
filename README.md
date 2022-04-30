@@ -72,9 +72,12 @@ HALF ADDER:
 FULL ADDER:
 
 ![GITHUB LOGO](hd.png)
+
 RTL realization
+
 HALF ADDER:
 ![GITHUB LOGO](hr.png)
+
 
 FULL ADDER:
 ![GITHUB LOGO](fr.png)
@@ -85,7 +88,7 @@ HALF ADDER:
 ![GITHUB LOGO](ht.png)
 
 FULL ADDER:
-![GITHUB LOGO](fr.png)
+![GITHUB LOGO](ft.png)
 
 ### TRUTH TABLE 
 
