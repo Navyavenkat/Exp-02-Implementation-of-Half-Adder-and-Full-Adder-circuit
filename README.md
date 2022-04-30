@@ -76,26 +76,34 @@ FULL ADDER:
 RTL realization
 
 HALF ADDER:
+
 ![GITHUB LOGO](hr.png)
 
 
 FULL ADDER:
+
 ![GITHUB LOGO](fr.png)
 
 ### TIMING DIAGRAM
 
 HALF ADDER:
+
 ![GITHUB LOGO](ht.png)
 
 FULL ADDER:
+
 ![GITHUB LOGO](ft.png)
 
 ### TRUTH TABLE 
 
 HALF ADDER:
+
 ![GITHUB LOGO](ha.png)
 
+
 FULL ADDER:
+
 ![GITHUB LOGO](fa.png)
+
 ### Result:
 Thus the Implementation of Half Adder and Full Adder circuit are studied and the truth table for different logic gates are verified.
