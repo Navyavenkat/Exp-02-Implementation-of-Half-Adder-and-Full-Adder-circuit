@@ -41,7 +41,10 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: V.NAVYA
 RegisterNumber:  212221230069
 */
+<<<<<<< HEAD
 ```
+=======
+>>>>>>> 449e24c4e1e967fbe35502588c33937462982c25
 
 ## Half adder program:
 
